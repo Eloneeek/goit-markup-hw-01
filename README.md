@@ -82,6 +82,7 @@
                 <p>UI Designer</p>
             </li>
         </ul>
+        </section>
     </main>
     <footer>
         <a href="./index.html">WebStudio</a>
