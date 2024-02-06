@@ -42,51 +42,42 @@
         <h2>Our Team</h2>
         <ul>
             <li>
-                <a href="/images/">
-                    <img src="images/handsome-brunette-man-with-beard-with-laptop_1368-8564.jpg" 
-                    alt="Mark Guerrero"
-                    width="264"
-                    height="260">
-                </a>
+                <img src="images/handsome-brunette-man-with-beard-with-laptop_1368-8564.jpg" 
+                alt="Mark Guerrero"
+                width="264"
+                height="260">
                 <h2>Mark Guerrero</h2>
                 <p>Product Designer</p>
             </li>
             <li>
-                <a href="/images/">
-                    <img src="images/8a9539bd306a71f0180d4ac75766361e.jpg"
-                    alt="Tom Ford"
-                    width="400"
-                    height="260">
-                </a>
+                <img src="images/8a9539bd306a71f0180d4ac75766361e.jpg"
+                alt="Tom Ford"
+                width="400"
+                height="260">
                 <h2>Tom Ford</h2>
                 <p>Frontend Developer</p>
             </li>
             <li>
-                <a href="/images/">
-                    <img src="images/210eea8d1f5ef1a5b4db4f62aba5e8e9.jpg"
-                    alt="Camila Garcia"
-                    width="400"
-                    height="260">
-                </a>
+                <img src="images/210eea8d1f5ef1a5b4db4f62aba5e8e9.jpg"
+                alt="Camila Garcia"
+                width="400"
+                height="260">
                 <h2>Camila Garcia</h2>
                 <p>Marketing</p>
             </li>
             <li>
-                <a href="/images/">
-                    <img src="images/c6daee5d9dff1c4f03f226cbaec0f164.jpg"
-                    alt="Daniel Wilson"
-                    width="400"
-                    height="260">
-                </a>
+                <img src="images/c6daee5d9dff1c4f03f226cbaec0f164.jpg"
+                alt="Daniel Wilson"
+                width="400"
+                height="260">
                 <h2>Daniel Wilson</h2>
                 <p>UI Designer</p>
             </li>
         </ul>
-        </section>
     </main>
     <footer>
         <a href="./index.html">WebStudio</a>
-        <p>Increase the flow of customers and sales for your business with digital marketing &amp; growth solutions.</p>
+        <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
     </footer>
 </body>
 </html>
